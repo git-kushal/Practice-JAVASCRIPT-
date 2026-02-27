@@ -17,3 +17,5 @@ console.log(name, _name, $name);
 
 const year = 2002; //----const is use for declaring the valu that cannot be change----//
 console.log(year);
+const P1 = 3.14;
+console.log(name, P1);
