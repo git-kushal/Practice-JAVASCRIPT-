@@ -29,13 +29,21 @@ console.log(name, P1);
 // null=it is a spacal type of valu
 // bigint=for big valustore 
 // typeof this is use for seeing datatype//
-let _nam = "kushal";
-console.log(nam);
-let number = String(12);
-console.log(number);
-let bool = Boolean(45.36);
-console.log(bool);
-let a;
-console.log(a);
-let num = null;
-console.log(num);
+//l--et _nam = "kushal";
+//console.log(nam);
+//let number = String(12);
+//console.log(number);
+//let bool = Boolean(45.36);
+//console.log(bool);
+//let a;
+//console.log(a);
+//let num = null;
+//console.log(nsum);
+
+//---creating objects---//
+const student = {
+    fullname: "kushal das",
+    rollno: 57,
+    age: 20,
+};
+console.log(student)
